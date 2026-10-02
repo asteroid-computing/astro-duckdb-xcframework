@@ -1,0 +1,9 @@
+# Output of Scripts/BuildXCFramework.swift; the zip is published on GitHub releases, not committed.
+/build/
+
+# SwiftPM and Xcode
+/.build/
+/.swiftpm/
+xcuserdata/
+DerivedData/
+.DS_Store
